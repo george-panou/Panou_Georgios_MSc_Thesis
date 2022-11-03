@@ -1,0 +1,13 @@
+This project requires python the tensor cuda library installed and the libraries listed in requirements.txt
+To use GPU in lgbm follow this guide:
+https://lightgbm.readthedocs.io/en/latest/GPU-Tutorial.html
+
+
+conda info --envs
+conda env list
+
+conda activate tensor_cuda
+
+pip install requirements.txt
+
+jupyter notebook
