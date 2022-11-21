@@ -22,7 +22,7 @@
 
 ### Abstract
 
-he purpose of this project is to study the behavior of machine learning applications in the
+Τhe purpose of this project is to study the behavior of machine learning applications in the
 environment of stock exchanges.
 In this regard, algorithms were developed and executed to forecast the volatility of stock
 exchange products. The implementation was developed n the context of a competition which
